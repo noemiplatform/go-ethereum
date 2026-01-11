@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "github.vscode-github-actions",
+        "github.copilot",
+        "tyriar.luna-paint",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "ms-python.vscode-pylance",
+        "mechatroner.rainbow-csv"
+    ]
+}
